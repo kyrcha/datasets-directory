@@ -5,6 +5,9 @@
 * [Kaggle Datasets](https://www.kaggle.com/datasets)
 * [AWS Public Data Sets](https://aws.amazon.com/datasets/)
 * [CrowdANALYTIX dataX](https://www.crowdanalytix.com/datax)
+* [The Dataverse Project](http://dataverse.org/)
+* [mldata.org](http://mldata.org/)
+* [OpenML](http://www.openml.org/)
 
 ### 3rd party collections
 
