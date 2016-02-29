@@ -8,6 +8,8 @@
 * [The Dataverse Project](http://dataverse.org/)
 * [mldata.org](http://mldata.org/)
 * [OpenML](http://www.openml.org/)
+* [ACM RecSys Datasets](http://recsyswiki.com/wiki/Datasets)
+* [WADAM Dataset Repository](http://wadam-data.dis.uniroma1.it/)
 
 ### 3rd party collections
 
