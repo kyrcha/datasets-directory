@@ -17,7 +17,21 @@
 ## Specific datasets
 
  * [Supermarket data](http://www.michelecoscia.com/?page_id=379)
+ 
+### Software Engineering
  * [tera-PROMISE Repository](http://openscience.us/repo/), research dataset repository specializing in software engineering research datasets
+ * [Bug Prediction Dataset](http://bug.int.usi.ch)
+ * [Eclipse Bug Data](http://www.st.cs.uni-saarland.de/softevo/bug-data/eclipse)
+ * [FLOSSMetrics](http:/flossmetrics.org)
+ * [FLOSSMole](http://flossmole.org)
+ * [International Software Benchmarking Standards Group (IBSBSG)](http://www.isbsg.orgOhlohhttp://www.ohloh.net)
+ * [PROMISE](http://promisedata.googlecode.com)
+ * [Qualitas Corpus](http://qualitascorpus.com)
+ * [Software Artifact Repository](http://sir.unl.edu)
+ * [SourceForge Research Data](http://zeriot.cse.nd.edu)
+ * [Sourcerer Project](http://sourcerer.ics.uci.edu)
+ * [Tukutuku](http://www.metriq.biz/tukutuku)
+ * [Ultimate Debian Database](http://udd.debian.org)
 
 ### 3rd party collections
 
