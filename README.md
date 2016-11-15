@@ -17,6 +17,7 @@
 ## Specific datasets
 
  * [Supermarket data](http://www.michelecoscia.com/?page_id=379)
+ * [tera-PROMISE Repository](http://openscience.us/repo/), research dataset repository specializing in software engineering research datasets
 
 ### 3rd party collections
 
