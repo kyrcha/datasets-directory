@@ -17,6 +17,8 @@
 
 ## Specific datasets
 
+### Retail
+
  * [Supermarket data](http://www.michelecoscia.com/?page_id=379)
  
 ### Software Engineering
@@ -33,6 +35,9 @@
  * [Sourcerer Project](http://sourcerer.ics.uci.edu)
  * [Tukutuku](http://www.metriq.biz/tukutuku)
  * [Ultimate Debian Database](http://udd.debian.org)
+ 
+### Images
+ * [notMNIST](http://yaroslavvb.blogspot.gr/2011/09/notmnist-dataset.html)
 
 ### 3rd party collections
 
