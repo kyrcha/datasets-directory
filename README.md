@@ -14,8 +14,9 @@
 * [ACM RecSys Datasets](http://recsyswiki.com/wiki/Datasets)
 * [WADAM Dataset Repository](http://wadam-data.dis.uniroma1.it/)
 * [data.world](https://data.world/) - Something like GitHub for data.
+* [Mendeley Data](https://data.mendeley.com/) - Share your data platform. You can browse for datasets.
 
-## Specific datasets
+## Specific domain datasets
 
 ### Retail
 
