@@ -15,11 +15,13 @@
 * [WADAM Dataset Repository](http://wadam-data.dis.uniroma1.it/)
 * [data.world](https://data.world/) - Something like GitHub for data.
 * [Mendeley Data](https://data.mendeley.com/) - Share your data platform. You can browse for datasets.
+* [datahub](https://datahub.io/dataset)
 
 ## Specific domain datasets
 
 ### Retail
 
+ * [Instacart](https://www.instacart.com/datasets/grocery-shopping-2017) - 3 Million Instacart Orders, Open Sourced
  * [Supermarket data](http://www.michelecoscia.com/?page_id=379)
  
 ### Software Engineering
@@ -44,7 +46,3 @@
 
 * https://github.com/caesar0301/awesome-public-datasets
 * https://github.com/okulbilisim/awesome-datascience
-
-
-
-
