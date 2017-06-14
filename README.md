@@ -1,6 +1,6 @@
 # datasets-directory
 
-## General directory datasets
+## General directories of datasets
 
 * [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets.html) - The classic repository of datasets
 * [Extreme Classification Repository](http://research.microsoft.com/en-us/um/people/manik/downloads/XC/XMLRepository.html)
@@ -17,7 +17,7 @@
 * [Mendeley Data](https://data.mendeley.com/) - Share your data platform. You can browse for datasets.
 * [datahub](https://datahub.io/dataset)
 
-## Specific domain datasets
+## Domain datasets
 
 ### Retail
 
