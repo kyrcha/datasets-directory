@@ -16,6 +16,7 @@
 * [data.world](https://data.world/) - Something like GitHub for data.
 * [Mendeley Data](https://data.mendeley.com/) - Share your data platform. You can browse for datasets.
 * [datahub](https://datahub.io/dataset)
+* [Keras](https://keras.io/datasets/)
 
 ## Domain datasets
 
