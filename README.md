@@ -44,7 +44,7 @@
 ### Images
  * [notMNIST](http://yaroslavvb.blogspot.gr/2011/09/notmnist-dataset.html)
 
-### 3rd party collections
+## 3rd party collections
 
 * https://github.com/caesar0301/awesome-public-datasets
 * https://github.com/okulbilisim/awesome-datascience
