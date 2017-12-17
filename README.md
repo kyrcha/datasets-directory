@@ -42,11 +42,12 @@
  * [Learning from Big Code datasets](http://learnbigcode.github.io/datasets/) - Include datasets with Abstract Syntax Trees, Java source code, binaries, etc.
  
 ### Images
+ * [MNIST handwritten digit dataset](http://yann.lecun.com/exdb/mnist/)
  * [notMNIST](http://yaroslavvb.blogspot.gr/2011/09/notmnist-dataset.html)
  * [German Traffic Sign Benchmark](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset)
  * [Street View House Numbers](http://ufldl.stanford.edu/housenumbers/)
 
 ## 3rd party collections
-
+* [From Wikipedia](https://en.wikipedia.org/wiki/List_of_datasets_for_machine_learning_research)
 * https://github.com/caesar0301/awesome-public-datasets
 * https://github.com/okulbilisim/awesome-datascience
