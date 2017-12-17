@@ -43,6 +43,8 @@
  
 ### Images
  * [notMNIST](http://yaroslavvb.blogspot.gr/2011/09/notmnist-dataset.html)
+ * [German Traffic Sign Benchmark](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset)
+ * [Street View House Numbers](http://ufldl.stanford.edu/housenumbers/)
 
 ## 3rd party collections
 
