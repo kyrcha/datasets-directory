@@ -51,3 +51,4 @@
 * [From Wikipedia](https://en.wikipedia.org/wiki/List_of_datasets_for_machine_learning_research)
 * https://github.com/caesar0301/awesome-public-datasets
 * https://github.com/okulbilisim/awesome-datascience
+* [70 data sources from this KDnuggets article](https://www.kdnuggets.com/2017/12/big-data-free-sources.html)
