@@ -40,6 +40,7 @@
  * [Tukutuku](http://www.metriq.biz/tukutuku)
  * [Ultimate Debian Database](http://udd.debian.org)
  * [Learning from Big Code datasets](http://learnbigcode.github.io/datasets/) - Include datasets with Abstract Syntax Trees, Java source code, binaries, etc.
+ * [awesome-msr](https://github.com/dspinellis/awesome-msr) - Datasets gathered from the Mining Software Repositories (MSR) community
  
 ### Images
  * [MNIST handwritten digit dataset](http://yann.lecun.com/exdb/mnist/)
