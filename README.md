@@ -48,6 +48,7 @@
 #### Named Entity Recognition
   * [Blog post with a collection of NER datasets](https://towardsdatascience.com/deep-learning-for-ner-1-public-datasets-and-annotation-methods-8b1ad5e98caf)
   * [NER datasets](https://github.com/davidsbatista/NER-datasets)
+  * [Named Entity Recognition for Chinese social media (Weibo)](https://github.com/hltcoe/golden-horse)
 
 ### Images
  * [MNIST handwritten digit dataset](http://yann.lecun.com/exdb/mnist/)
