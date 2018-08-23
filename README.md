@@ -42,7 +42,13 @@
  * [Learning from Big Code datasets](http://learnbigcode.github.io/datasets/) - Include datasets with Abstract Syntax Trees, Java source code, binaries, etc.
  * [awesome-msr](https://github.com/dspinellis/awesome-msr) - Datasets gathered from the Mining Software Repositories (MSR) community
  * [ABB Dev Interaction Data](https://abb-iss.github.io/DeveloperInteractionLogs/) - Over 30,000 hours of developer interaction data in Visual Studio captured with the Blaze tool
- 
+
+### Natural Language Processing
+
+#### Named Entity Recognition
+  * [Blog post with a collection of NER datasets](https://towardsdatascience.com/deep-learning-for-ner-1-public-datasets-and-annotation-methods-8b1ad5e98caf)
+  * [NER datasets](https://github.com/davidsbatista/NER-datasets)
+
 ### Images
  * [MNIST handwritten digit dataset](http://yann.lecun.com/exdb/mnist/)
  * [notMNIST](http://yaroslavvb.blogspot.gr/2011/09/notmnist-dataset.html)
