@@ -27,6 +27,7 @@
  
 ### Software Engineering
  * [tera-PROMISE Repository](http://openscience.us/repo/), research dataset repository specializing in software engineering research datasets
+   * [JIRA dataset](http://openscience.us/repo/social-analysis/social-aspects.html)
  * [Bug Prediction Dataset](http://bug.int.usi.ch)
  * [Eclipse Bug Data](http://www.st.cs.uni-saarland.de/softevo/bug-data/eclipse)
  * [FLOSSMetrics](http:/flossmetrics.org)
