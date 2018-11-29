@@ -43,6 +43,9 @@
  * [Learning from Big Code datasets](http://learnbigcode.github.io/datasets/) - Include datasets with Abstract Syntax Trees, Java source code, binaries, etc.
  * [awesome-msr](https://github.com/dspinellis/awesome-msr) - Datasets gathered from the Mining Software Repositories (MSR) community
  * [ABB Dev Interaction Data](https://abb-iss.github.io/DeveloperInteractionLogs/) - Over 30,000 hours of developer interaction data in Visual Studio captured with the Blaze tool
+ * [Django dataset](https://github.com/odashi/ase15-django-dataset) - Django Dataset for Code Translation Tasks
+ * [WikiSQL](https://github.com/salesforce/WikiSQL) - A large annotated semantic parsing corpus for developing natural language interfaces
+ * [text2sql-data](https://github.com/jkkummerfeld/text2sql-data) - data and code for building and evaluating systems that map sentences to SQL
 
 ### Natural Language Processing
 
