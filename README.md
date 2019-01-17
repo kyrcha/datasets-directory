@@ -1,6 +1,6 @@
 # datasets-directory
 
-## Search
+## Searching
 
  * [Dataset Search by Google](https://toolbox.google.com/datasetsearch)
 
