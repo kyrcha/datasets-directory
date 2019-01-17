@@ -1,5 +1,9 @@
 # datasets-directory
 
+## Search
+
+ * [Dataset Search by Google](https://toolbox.google.com/datasetsearch)
+
 ## General directories of datasets
 
 * [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets.html) - The classic repository of datasets
