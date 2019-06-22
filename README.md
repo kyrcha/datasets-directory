@@ -24,6 +24,11 @@
 
 ## Domain datasets
 
+### Financial
+
+ * [Quandl](https://www.quandl.com/) - Financial related datasets
+ * [CryptoDataDownload](https://www.cryptodatadownload.com/) - Free cryptocurrency data
+
 ### Retail
 
  * [Instacart](https://www.instacart.com/datasets/grocery-shopping-2017) - 3 Million Instacart Orders, Open Sourced
