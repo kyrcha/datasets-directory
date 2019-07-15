@@ -21,6 +21,8 @@
 * [Mendeley Data](https://data.mendeley.com/) - Share your data platform. You can browse for datasets.
 * [datahub](https://datahub.io/dataset)
 * [Keras](https://keras.io/datasets/)
+* [Yahoo webscope](https://research.yahoo.com/datasets)
+* [Harvard dataverse](https://dataverse.harvard.edu/dataverse/harvard)
 
 ## Domain datasets
 
@@ -68,6 +70,24 @@
  * [notMNIST](http://yaroslavvb.blogspot.gr/2011/09/notmnist-dataset.html)
  * [German Traffic Sign Benchmark](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset)
  * [Street View House Numbers](http://ufldl.stanford.edu/housenumbers/)
+ 
+### Datacenters
+ * [Yahoo, Computing Systems Data for Anomaly Detection](https://webscope.sandbox.yahoo.com/catalog.php?datatype=s&did=70&guccounter=1)
+ * [Alibaba cluster data](https://github.com/alibaba/clusterdata)
+ * [Azure public dataset](https://github.com/Azure/AzurePublicDataset)
+ * [Google cluster data](https://github.com/google/cluster-data)
+ * [Loghub dataset from LogPAI](https://github.com/logpai/loghub/blob/master/README.md) - a collection of system logs
+
+### Time-series
+ * [Time-Series classification](http://timeseriesclassification.com/dataset.php?train=&test=&leng=&class=&type==%27sensor%27)
+
+### Outlier Detection
+ * [Outlier Detection DataSets from Stonybrook](http://odds.cs.stonybrook.edu/)
+ * [Outlier Detection evaluation dataset from LMU](http://www.dbs.ifi.lmu.de/research/outlier-evaluation/)
+ * [Outlier Detection DataSets from ELKI](https://elki-project.github.io/datasets/outlier)
+ * [Numenta Anomaly Benchmark](https://github.com/numenta/NAB)
+ * [Anomaly Detection Meta-Analysis Benchmarks from Oregon State](https://ir.library.oregonstate.edu/concern/datasets/47429f155)
+ * [Unsupervised Anomaly Detection Benchmark from Harvard](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/OPQMVF)
 
 ## 3rd party collections
 * [From Wikipedia](https://en.wikipedia.org/wiki/List_of_datasets_for_machine_learning_research)
