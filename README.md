@@ -58,7 +58,8 @@
  * [Django dataset](https://github.com/odashi/ase15-django-dataset) - Django Dataset for Code Translation Tasks
  * [WikiSQL](https://github.com/salesforce/WikiSQL) - A large annotated semantic parsing corpus for developing natural language interfaces
  * [text2sql-data](https://github.com/jkkummerfeld/text2sql-data) - data and code for building and evaluating systems that map sentences to SQL
- * [Neural-Code-Search-Evaluation-Dataset](https://github.com/facebookresearch/Neural-Code-Search-Evaluation-Dataset) - Neural-Code-Search-Evaluation-Dataset by Facebook, presents an evaluation dataset consisting of natural language query and code snippet pairs
+ * [Neural-Code-Search-Evaluation-Dataset](https://github.com/facebookresearch/Neural-Code-Search-Evaluation-Dataset) - [Neural-Code-Search-Evaluation-Dataset](https://arxiv.org/abs/1908.09804) by Facebook, presents an evaluation dataset consisting of natural language query and code snippet pairs
+ * [CodeSearchNet](https://github.com/github/CodeSearchNet) - [CodeSearchNet](https://arxiv.org/abs/1909.09436) by GitHub is a collection of datasets and benchmarks that explore the problem of code retrieval using natural language.
 
 ### Natural Language Processing
 
