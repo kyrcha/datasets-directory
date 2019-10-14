@@ -61,6 +61,7 @@
  * [Neural-Code-Search-Evaluation-Dataset](https://github.com/facebookresearch/Neural-Code-Search-Evaluation-Dataset) - [Neural-Code-Search-Evaluation-Dataset](https://arxiv.org/abs/1908.09804) by Facebook, presents an evaluation dataset consisting of natural language query and code snippet pairs
  * [CodeSearchNet](https://github.com/github/CodeSearchNet) - [CodeSearchNet](https://arxiv.org/abs/1909.09436) by GitHub is a collection of datasets and benchmarks that explore the problem of code retrieval using natural language.
  * [awesome machine learning on source code datasets](https://github.com/src-d/awesome-machine-learning-on-source-code#datasets) - The datasets part of the [MLonCode](https://github.com/src-d/awesome-machine-learning-on-source-code) repository.
+ * [source{d} datasets](https://github.com/src-d/datasets) - source{d} datasets for source code analysis and machine learning on source code (ML on Code).
 
 ### Natural Language Processing
 
