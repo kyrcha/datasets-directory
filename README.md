@@ -10,7 +10,7 @@
 * [Extreme Classification Repository](http://research.microsoft.com/en-us/um/people/manik/downloads/XC/XMLRepository.html)
 * [Relational Data Repository](https://relational.fit.cvut.cz/)
 * [Kaggle Datasets](https://www.kaggle.com/datasets)
-* [AWS Public Data Sets](https://aws.amazon.com/datasets/)
+* [Registry of Open Data on AWS](https://registry.opendata.aws/)
 * [CrowdANALYTIX dataX](https://www.crowdanalytix.com/datax)
 * [The Dataverse Project](http://dataverse.org/)
 * [mldata.org](http://mldata.org/)
