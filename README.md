@@ -24,6 +24,7 @@
 * [Yahoo webscope](https://research.yahoo.com/datasets)
 * [Harvard dataverse](https://dataverse.harvard.edu/dataverse/harvard)
 * [TensorFlow datasets](https://github.com/tensorflow/datasets)
+* [Google Research Datasets](https://github.com/google-research-datasets)
 
 ## Domain datasets
 
