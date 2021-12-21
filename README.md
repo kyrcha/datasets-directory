@@ -64,6 +64,9 @@
  * [awesome machine learning on source code datasets](https://github.com/src-d/awesome-machine-learning-on-source-code#datasets) - The datasets part of the [MLonCode](https://github.com/src-d/awesome-machine-learning-on-source-code) repository.
  * [source{d} datasets](https://github.com/src-d/datasets) - source{d} datasets for source code analysis and machine learning on source code (ML on Code).
 
+### Recommender Systems
+  * [MovieLens](https://grouplens.org/datasets/movielens/)
+
 ### Natural Language Processing
 
 #### Named Entity Recognition
